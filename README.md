@@ -16,14 +16,33 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
 ```
 
 - Warunkiem zaliczenia jest uzyskanie co najmniej 51% pkt z każdej części (wykład i projekt).
-- **Wykład** - część merytoryczna nagrywana, publikowana na YouTube w formie "unlisted vide" i "unlisted playlist". Wykład jest nieobowiązkowy.
-
-  - Wejściówki/zejściówki - <?>.
-
-  - Egzamin za 50p - **obowiązkowy**, jeden termin
-
-- Zajęcia projektowe - obowiązkowe wszystkie '**Scrum meetings**'
+- **Wykład** - część merytoryczna nagrywana, publikowana na YouTube w formie "unlisted video" i "unlisted playlist". Wykład jest nieobowiązkowy, ale zachęcam.
+- Wejściówki/zejściówki - <?> :).
+  
+- Egzamin za 50p - **obowiązkowy**, jeden termin
+- Zajęcia projektowe - obowiązkowe wszystkie poza zajęciami typu "konsultacja"
+  - Usprawiedliwiona nieobecność tylko pismem urzędowym lub w szczególnych przypadkach - tutaj kontakt z prowadzącą
+  - Projekt #1  20p = 10p grupowe (efekt/artefakty) + 10p indywidualne (praca)
+  - Projekt #2  30p = 20p grupowe (efekt/artefakty, sposób rozwiązania) + 10p indywidualne (praca)
+  - Projekt #3  
+    - 10p - Scrum Meeting (wykazanie kluczowego postępu)
+    - 40p = 30p grupowe  (efekt/artefakty, sposób rozwiązania) + 10p indywidualne (praca)
 - Dosłanie prac/artefaktów po terminie jest możliwe, ale wtedy max to połowa punktów
+
+
+
+##### Skala ocen
+
+- 1/10 - beznadziejna
+- 2/10 - bardzo słaba
+- 3/10 - słaba
+- 4/10 - może być
+- 5/10 - przeciętna
+- 6/10 - dobra
+- 7/10 - bardzo dobra
+- 8/10 - rewelacja
+- 9/10 - wybitna
+- 10 - arcydzieło
 
 
 
@@ -33,7 +52,7 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
 - Szczerość, zaufanie
 - Wzajemna pomoc
 - Nastawienie na nową wiedzę, rozwój i naukę
-- Terminowość. Brak drugich terminów.
+- Terminowość. 
 - Szacunek
 - Szacunek do czasu i dostępności
 - **NVC!!!**
@@ -46,7 +65,7 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
 - Konsultacje online odbywają się w dowolnym dla studenta terminie po uprzednim zapisaniu się przez formularz ze strony https://bit.ly/esterakot. 
 - Konsultacje stacjonarne są zawieszone.
 - Konsultacje nie są dodatkowym terminem zajęć.
-- Komunikacja mailowa odbywa się **TYLKO** poprzez email: estera.kot.dokt@pw.edu.pl lub czat stworzony przy jednym terminie zajęć w kalendarzu. 
+- Komunikacja mailowa odbywa się **TYLKO** poprzez **<u>email</u>**: estera.kot.dokt@pw.edu.pl
 - Jak pisać formalne maile do prowadzących, by szybciej i z powodzeniem załatwiać sprawy:
   - http://filologika.pl/porady-jezykowe/jak-pisac-maile-do-prowadzacych
   - http://www.multimedia.univ.rzeszow.pl/?p=1350
