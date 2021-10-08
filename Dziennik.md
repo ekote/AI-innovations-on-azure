@@ -1,3 +1,7 @@
+# Nagrania
+
+1. YouTube - https://www.youtube.com/playlist?list=PLnfmGXUkCC7RGcMLKXDIhlNFf0BTj4qEV
+
 # Harmonogram
 
 | Lp.  | Data  | Temat                                                        | <u>Obowiązkowy</u> materiał do <u>samodzielnego</u> przerobienia |
