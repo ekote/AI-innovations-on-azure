@@ -16,22 +16,22 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
 ```
 
 - Warunkiem zaliczenia jest uzyskanie co najmniej 51% pkt z każdej części (wykład i projekt).
-- **Wykład** - część merytoryczna nagrywana, publikowana na YouTube w formie "unlisted video" i "unlisted playlist". Wykład jest nieobowiązkowy, ale zachęcam.
+- **Wykład** - część merytoryczna nagrywana, publikowana na YouTube w formie "unlisted video" i "unlisted playlist". Wykład jest nieobowiązkowy, ale zachęcam :)
 - Wejściówki/zejściówki - <?> :).
-  
 - Egzamin za 50p - **obowiązkowy**, jeden termin
-- Zajęcia projektowe - obowiązkowe wszystkie poza zajęciami typu "konsultacja"
+  - +10p dodatkowe za zdany egzamin AZ-900, DP-900, SC-900, AI-900
+- Zajęcia projektowe - obowiązkowe wszystkie poza zajęciami typu "konsultacje"
   - Usprawiedliwiona nieobecność tylko pismem urzędowym lub w szczególnych przypadkach - tutaj kontakt z prowadzącą
   - Projekt #1  20p = 10p grupowe (efekt/artefakty) + 10p indywidualne (praca)
   - Projekt #2  30p = 20p grupowe (efekt/artefakty, sposób rozwiązania) + 10p indywidualne (praca)
   - Projekt #3  
-    - 10p - Scrum Meeting (wykazanie kluczowego postępu)
-    - 40p = 30p grupowe  (efekt/artefakty, sposób rozwiązania) + 10p indywidualne (praca)
+    - 10p - Scrum Meeting (wykazanie kluczowego postępu) - indywidualne
+    - 40p = 20p grupowe  (efekt/artefakty, sposób rozwiązania) + 20p indywidualne (praca)
 - Dosłanie prac/artefaktów po terminie jest możliwe, ale wtedy max to połowa punktów
 
 
 
-##### Skala ocen
+##### Skala oceny prac/pracy
 
 - 1/10 - beznadziejna
 - 2/10 - bardzo słaba
@@ -48,22 +48,23 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
 
 ## Code of conduct
 
-- 100% zdalnie
-- Szczerość, zaufanie
-- Wzajemna pomoc
-- Nastawienie na nową wiedzę, rozwój i naukę
-- Terminowość. 
-- Szacunek
-- Szacunek do czasu i dostępności
+- **100% zdalnie**
+- **Szczerość, zaufanie**
+- **Wzajemna pomoc**
+- **Nastawienie na nową wiedzę, rozwój i naukę**
+- **Terminowość.*
+- **Szacunek**
+- **Szacunek do czasu i dostępności**
 - **NVC!!!**
 - <u>**włączamy kamerki**</u>
+- **<u>BE ON TIME</u>**
 
 
 
 ## Konsultacje i komunikacja
 
 - Konsultacje online odbywają się w dowolnym dla studenta terminie po uprzednim zapisaniu się przez formularz ze strony https://bit.ly/esterakot. 
-- Konsultacje stacjonarne są zawieszone.
+- Konsultacje stacjonarne są zawieszone (chyba, że w Gdyni ;) ).
 - Konsultacje nie są dodatkowym terminem zajęć.
 - Komunikacja mailowa odbywa się **TYLKO** poprzez **<u>email</u>**: estera.kot.dokt@pw.edu.pl
 - Jak pisać formalne maile do prowadzących, by szybciej i z powodzeniem załatwiać sprawy:
