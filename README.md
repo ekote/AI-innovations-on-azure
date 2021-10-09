@@ -72,5 +72,5 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
   - http://www.multimedia.univ.rzeszow.pl/?p=1350
   - http://www.zaparzeciherbate.pl/jak-napisac-e-mail-do-wykladowcy/
 
-![](https://raw.githubusercontent.com/ekote/AI-innovations-on-azure/main/assets/Microsoft-and-General-Assembly-launch-partnership-to-close-the-global-AI-skills-gap.jpg =400x225)
+![](https://raw.githubusercontent.com/ekote/AI-innovations-on-azure/main/assets/Microsoft-and-General-Assembly-launch-partnership-to-close-the-global-AI-skills-gap.jpg)
 
