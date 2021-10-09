@@ -64,7 +64,7 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
 ## Konsultacje i komunikacja
 Prowadząca mgr inż. Estera Kot. Doktorantka - IV rok studiów trzeciego stopnia na kierunku Informatyka na Wydziale Elektrycznym Politechniki Warszawskiej. Na codzień Senior Cloud Solution Architect w Microsoft ze specjalizają w Artificial Intelligence. 
 
-- Konsultacje online odbywają się w dowolnym dla studenta terminie po uprzednim zapisaniu się przez formularz ze strony https://bit.ly/esterakot. 
+- Konsultacje online odbywają się w dowolnym dla studenta terminie po uprzednim zapisaniu się przez formularz ze strony https://bit.ly/esterakot. W polu Name proszę podać także numer indeksu i czego dotyczyć ma konsultacja np. Jak Kowalski - 3030303 - dodatkowa rozmowa o architekturze projektu #2. 
 - Konsultacje stacjonarne są zawieszone (chyba, że w Gdyni ;) ).
 - Konsultacje nie są dodatkowym terminem zajęć.
 - Komunikacja mailowa odbywa się **TYLKO** poprzez **<u>email</u>**: estera.kot.dokt@pw.edu.pl
