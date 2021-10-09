@@ -62,6 +62,7 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
 
 
 ## Konsultacje i komunikacja
+Prowadząca mgr inż. Estera Kot. Doktorantka - IV rok studiów trzeciego stopnia na kierunku Informatyka na Wydziale Elektrycznym Politechniki Warszawskiej. Na codzień Senior Cloud Solution Architect w Microsoft ze specjalizają w Artificial Intelligence. 
 
 - Konsultacje online odbywają się w dowolnym dla studenta terminie po uprzednim zapisaniu się przez formularz ze strony https://bit.ly/esterakot. 
 - Konsultacje stacjonarne są zawieszone (chyba, że w Gdyni ;) ).
@@ -71,6 +72,7 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
   - http://filologika.pl/porady-jezykowe/jak-pisac-maile-do-prowadzacych
   - http://www.multimedia.univ.rzeszow.pl/?p=1350
   - http://www.zaparzeciherbate.pl/jak-napisac-e-mail-do-wykladowcy/
+
 
 ![](https://raw.githubusercontent.com/ekote/AI-innovations-on-azure/main/assets/Microsoft-and-General-Assembly-launch-partnership-to-close-the-global-AI-skills-gap.jpg)
 
