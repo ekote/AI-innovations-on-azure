@@ -22,16 +22,18 @@ Cel każdego projektu to stworzenie innowacji pomagającej w rozwiązaniu ważne
 
 
 ### Artefakty
-
+MUST HAVE:
 -  Repozytorium na GITHUB (publiczne)
 -  Opis projektu
+-  Architektura (diagram) (- jakie serwisy Azurowe ...)
+-  Link do video na YouTube z demem rozwiązania
+
+NICE TO HAVE:
 -  Przedstawienie zespołu z podlinkowaniem osoby do jej/jego konta na GitHub
 -  Opisu funkcjonalności (- co będziecie realizować innowacja)
 -  Schemat działania rozwiązania
--  Architektura (diagram) (- jakie serwisy Azurowe ...)
 -  Wybrany stos technologiczny (- jakie inne technologie użyjecie)
 -  Kod rozwiązania
--  Link do video na YouTube z demem rozwiązania
 -  dla projektu #3 dodatkowo:
   - Rozpiska zadań do zrealizowania oraz przypisanie osoby odpowiedzialnej za dane zadanie (- jakie zadania będą realizowane, przez kogo i kiedy)
 
