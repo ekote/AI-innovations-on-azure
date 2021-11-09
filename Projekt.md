@@ -32,8 +32,7 @@ MUST HAVE:
 -  Opisu funkcjonalności (- co będziecie realizować innowacja)
 -  Schemat działania rozwiązania
 -  Wybrany stos technologiczny (- jakie inne technologie użyjecie)
--  dla projektu #3 dodatkowo:
-  - Rozpiska zadań do zrealizowania oraz przypisanie osoby odpowiedzialnej za dane zadanie (- jakie zadania będą realizowane, przez kogo i kiedy)
+-  dla projektu #3 dodatkowo: Rozpiska zadań do zrealizowania oraz przypisanie osoby odpowiedzialnej za dane zadanie (- jakie zadania będą realizowane, przez kogo i kiedy)
 
 Przykłady z zeszłego:
 
