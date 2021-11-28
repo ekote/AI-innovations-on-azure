@@ -24,75 +24,48 @@
 
 
 
-## Dziennik z zajęć
+## Dodatkowe notatki prowadzącej z zajęć
 
-### 2 12.10
+### #2 12.10
 
-1. AZ-900T01 Microsoft Azure Fundamentals-00.pdf
-2. AZ-900T01 Microsoft Azure Fundamentals-01.pdf
-3. AZ-900T01 Microsoft Azure Fundamentals-02.pdf
+1. [AZ-900T01 Microsoft Azure Fundamentals-00.pdf](assets/AZ-900T01 Microsoft Azure Fundamentals-00.pdf)
+2. [AZ-900T01 Microsoft Azure Fundamentals-01.pdf](assets/AZ-900T01 Microsoft Azure Fundamentals-01.pdf)
+3. [AZ-900T01 Microsoft Azure Fundamentals-02.pdf](assets/AZ-900T01 Microsoft Azure Fundamentals-02.pdf)
 4. [Create a Linux virtual machine in Azure - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/)
 5. [Szybki start: tworzenie maszyny wirtualnej z systemem Linux przy użyciu interfejsu wiersza polecenia platformy Azure - Azure Virtual Machines | Microsoft Docs](https://docs.microsoft.com/pl-pl/azure/virtual-machines/linux/quick-create-cli)
-6. Core_Azure_services.md
-7. [Cloud Service Models.jpg (3508×2480) (raw.githubusercontent.com)](https://raw.githubusercontent.com/PacktPublishing/The-Azure-Cloud-Native-Architecture-Mapbook/master/Chapter01/maps/Cloud Service Models.jpg)
+6. [Core Azure Services](assets/Core_Azure_services.md)
+7. [Mapy Myśli](https://github.com/PacktPublishing/The-Azure-Cloud-Native-Architecture-Mapbook)
 8. [GitHub Student Developer Pack - GitHub Education](https://education.github.com/pack)
 
-
-
-
-
-### 3  26.10
-1. AZ-900T01 Microsoft Azure Fundamentals-02.pdf
-2. Core_Azure_services.md
+### #3  26.10
+1. [AZ-900T01 Microsoft Azure Fundamentals-02.pdf](assets/AZ-900T01%20Microsoft%20Azure%20Fundamentals-02.pdf)
+2. [Core Azure Services](assets/Core_Azure_services.md)
 3. https://docs.microsoft.com/pl-pl/azure/architecture/
 4. [The-Azure-Cloud-Native-Architecture-Mapbook/Azure Infrastructure Architect.pdf at master · PacktPublishing/The-Azure-Cloud-Native-Architecture-Mapbook (github.com)](https://github.com/PacktPublishing/The-Azure-Cloud-Native-Architecture-Mapbook/blob/master/Chapter03/maps/Azure Infrastructure Architect.pdf)
 5. [The-Azure-Cloud-Native-Architecture-Mapbook/Azure Solution Architect Map.pdf at master · PacktPublishing/The-Azure-Cloud-Native-Architecture-Mapbook (github.com)](https://github.com/PacktPublishing/The-Azure-Cloud-Native-Architecture-Mapbook/blob/master/Chapter02/maps/Azure Solution Architect Map.pdf)
 
+### #8  30.11
+1. [AZ-900T01 Microsoft Azure Fundamentals-03.pdf](assets/AZ-900T01 Microsoft Azure Fundamentals-03.pdf)
+2. [AZ-900T01 Microsoft Azure Fundamentals-04.pdf](assets/AZ-900T01 Microsoft Azure Fundamentals-04.pdf)
 
 
-
-### 4  02.11
-
-### 5  09.11
-
-### 6  16.11
-
-### 7  23.11
-
-### 8  30.12
-
-1. AZ-900T01 Microsoft Azure Fundamentals-03.pdf
-2. AZ-900T01 Microsoft Azure Fundamentals-04.pdf
-
-
-### 9  07.12
-
-### 10  14.12
-1. az900-StudyGuide_EKOT
-2. Exam AZ-900 Microsoft Azure Fundamentals Resource Guide
-
-### 11  04.01
-
-### 12  11.01
-
-### 13  18.01
-
-### 14  25.01
-
+### #10  14.12
+1. [az900-StudyGuide_EKOT](assets/az900-StudyGuide_EKOT)
+2. [Exam AZ-900 Microsoft Azure Fundamentals Resource Guide](assets/Exam%20AZ-900%20Microsoft%20Azure%20Fundamentals%20Resource%20Guide.pdf)
 
 
 ## Nagrania
 
-1. Bieżący rok - https://bit.ly/innovations-on-azure-v2
-2. Poprzedni roku
-   1. wprowadzenie - https://bit.ly/innovations-on-azure
-   2. advanced - https://bit.ly/innovations-on-azure-advanced
+1. Bieżący rok Z2021 - https://bit.ly/innovations-on-azure-v2
+2. Poprzedni roku Z2020:
+   1. wprowadzenie (intro) - https://bit.ly/innovations-on-azure
+   2. zaawansowany (advanced) - https://bit.ly/innovations-on-azure-advanced
 
 
 
-## WAŻNE LINKI
+## Ważne linki
 
-- sprawdzanie stanu subskrypcji studenckiej
+- (sprawdzanie stanu subskrypcji studenckiej](https://www.microsoftazuresponsorships.com/)
 
 - portfolio usług na Azure - https://azurecharts.com lub [Periodic table | Azure Services IO](https://azureservices.io/#)
 
