@@ -28,7 +28,7 @@
 
 ## Projekt #2
 
-| Nr grupy | Lider grupy | Nazwa projektu | Opis      | Repo link | Demo link                |
+| Nr grupy | Lider grupy | Nazwa projektu | Opis/Cel  | Repo link | Demo link                |
 |----------|-------------|----------------|-----------|-----------|--------------------------|
 | 1        |             |                |           |           |                          |
 | 2        |             |                |           |           |                          |
@@ -46,7 +46,7 @@
 
 ## Projekt #3
 
-| Nr grupy | Lider grupy | Nazwa projektu | Opis      | Repo link | Demo link                |
+| Nr grupy | Lider grupy | Nazwa projektu | Opis/Cel  | Repo link | Demo link                |
 |----------|-------------|----------------|-----------|-----------|--------------------------|
 | 1        |             |                |           |           |                          |
 | 2        |             |                |           |           |                          |
