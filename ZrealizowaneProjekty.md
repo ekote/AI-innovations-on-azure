@@ -33,7 +33,7 @@
 | 1        |             |                |           |           |                          |
 | 2        |             |                |           |           |                          |
 | 3        |             |                |           |           |                          |
-| 4        |             |                |           |           |                          |
+| 4        |Kinga Kocoł  |Dietetyczny bot |Stworzenie bota, który zwiększa świadomość na temat zaburzeń odżywiania, ale również podaje przydatne informacje na temat zdrowego sposobu odżywiania. Powstały bot potrafi na podstawie podanych przez użytkownika danych wyliczyć wskaźnik masy ciała (BMI), zapotrzebowanie kaloryczne oraz zwrócić informacje na temat kaloryczności i zawartości odżywczych poszczególnych produktów spożywczych oraz przeprowadzić ich analizę i wyświetlić informacje o dominującym makroskładniku.|https://github.com/AzureProject2PW/FoodBot-On-Azure|https://www.youtube.com/watch?v=0wciqxDcaIE|
 | 5        |             |                |           |           |                          |
 | 6        |             |                |           |           |                          |
 | 7        |             |                |           |           |                          |
