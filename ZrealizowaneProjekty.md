@@ -34,7 +34,7 @@
 | 2        |             |                |           |           |                          |
 | 3        |             |                |           |           |                          |
 | 4        |             |                |           |           |                          |
-| 5        |             |                |           |           |                          |
+| 5        |  Krzysztof Maciejewski           |    Plant disease detector            |     Aplikacja do rozpoznawania chorób roślin      |    https://github.com/qunikowski/azure-proj2       |              https://www.youtube.com/watch?v=jhdA8_jOyJY            |
 | 6        |             |                |           |           |                          |
 | 7        |             |                |           |           |                          |
 | 8        |             |                |           |           |                          |
