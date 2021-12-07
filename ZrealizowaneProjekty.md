@@ -32,7 +32,7 @@
 |----------|-------------|----------------|-----------|-----------|--------------------------|
 | 1        |             |                |           |           |                          |
 | 2        |             |                |           |           |                          |
-| 3        |             |                |           |           |                          |
+| 3        | Kacper Hołubowicz            | Platforma wsparcia               | Głównym założeniem projektu jest stworzenie platformy umożliwiającej osobom potrzebującym pomocy uzyskaniem jej od osób chętnych do udzielenia jej.          | https://github.com/KacperHolubowicz/platforma-wsparcia          | https://www.youtube.com/watch?v=x5m-79j7-vg                         |
 | 4        |             |                |           |           |                          |
 | 5        |             |                |           |           |                          |
 | 6        |             |                |           |           |                          |
