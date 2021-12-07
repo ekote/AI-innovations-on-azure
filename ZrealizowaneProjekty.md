@@ -38,7 +38,7 @@
 | 6        |             |                |           |           |                          |
 | 7        |             |                |           |           |                          |
 | 8        |             |                |           |           |                          |
-| 9        |             |                |           |           |                          |
+| 9        | Franciszek Wysocki |AI Coin Counter | Aplikacja, która umożliwia zliczanie wartości monet z przesłanego zdjęcia. Jej celem jest ograniczenie konieczności dotykania pieniędzy po innej osobie, co zwiększa bezpieczeństwo szczególnie w czasach epidemicznych. | https://github.com/KKofta/AI-Coin-Counter | https://youtu.be/AXQhopmFx_0 |
 | 10       |             |                |           |           |                          |
 
 
