@@ -36,7 +36,7 @@
 | 4        |             |                |           |           |                          |
 | 5        |             |                |           |           |                          |
 | 6        |             |                |           |           |                          |
-| 7        |             |                |           |           |                          |
+| 7        | Uladzislau Hubar | Tłumaczenie audio na tekst | Stworzenie aplikacji webowej, pozwalającej na tłumaczenie plików audio o zadanym języku na tekst w wybranym języku (Azure Cognitive Services / Azure Web Application / Azure Container Registry / Azure Storage Blob) | https://github.com/u-hubar/Azure-Audio-Translator | https://youtu.be/N5qCRLqZiBw |
 | 8        |             |                |           |           |                          |
 | 9        |             |                |           |           |                          |
 | 10       |             |                |           |           |                          |
