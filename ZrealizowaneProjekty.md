@@ -37,7 +37,8 @@
 | 5        |             |                |           |           |                          |
 | 6        |             |                |           |           |                          |
 | 7        |             |                |           |           |                          |
-| 8        |             |                |           |           |                          |
+| 8        | Selivonets Aliaksei           |   Cook-Helper                
+|Pomysł polega na stworzeniu botu do jednego z messenger'ów, w naszym projekcie to jest "Telegram Messenger" https://telegram.org/, który na podstawie zdjęcia dania podanego przez użytkownika proponuje wideo tutorial przygotowania takiego dania.        |  https://github.com/VladPodlesnyi/Cook-Helper.git         |     https://youtu.be/OrT6dV7QGwM     |
 | 9        |             |                |           |           |                          |
 | 10       |             |                |           |           |                          |
 
