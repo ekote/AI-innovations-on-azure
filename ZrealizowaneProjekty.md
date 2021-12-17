@@ -35,7 +35,7 @@
 | 3        |             |                |           |           |                          |
 | 4        |             |                |           |           |                          |
 | 5        |             |                |           |           |                          |
-| 6        |             |                |           |           |                          |
+| 6        | Jakub Bogusz            |  Salary Predictor              |  Zbudowanie aplikacji pozwalającej wyestymować zarobki w branży IT na podstawie posiadanego zestawu umiejętności         | [GitHub](https://github.com/boguszj/azure-p2)          | [YouTube](https://www.youtube.com/watch?v=CkCQ-Hc8LcQ)                         |
 | 7        |             |                |           |           |                          |
 | 8        | Selivonets Aliaksei           |   Cook-Helper                
 |Pomysł polega na stworzeniu botu do jednego z messenger'ów, w naszym projekcie to jest "Telegram Messenger" https://telegram.org/, który na podstawie zdjęcia dania podanego przez użytkownika proponuje wideo tutorial przygotowania takiego dania.        |  https://github.com/VladPodlesnyi/Cook-Helper.git         |     https://youtu.be/OrT6dV7QGwM     |
