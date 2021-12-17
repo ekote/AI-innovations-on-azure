@@ -31,7 +31,7 @@
 | Nr grupy | Lider grupy | Nazwa projektu | Opis/Cel  | Repo link | Demo link                |
 |----------|-------------|----------------|-----------|-----------|--------------------------|
 | 1        |             |                |           |           |                          |
-| 2        |             |                |           |           |                          |
+| 2        | Patryk Guba |Badanie zależności między używaniem mediów społecznościowych a typem osobowości na podstawie analizy tweetów | Klasyfikacja osobowości MBTI na podstawie krótkich wypowiedzi z serwisów społecznościowych (np. Twitter) w aplikacji webowej | https://github.com/gubapatryk/mbti-tweet-analysis | https://www.youtube.com/watch?v=yuXHhs27Xmw |
 | 3        |             |                |           |           |                          |
 | 4        |             |                |           |           |                          |
 | 5        |             |                |           |           |                          |
