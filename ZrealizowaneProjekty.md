@@ -37,9 +37,8 @@
 | 5        |  Krzysztof Maciejewski           |    Plant disease detector            |     Aplikacja do rozpoznawania chorób roślin      |    https://github.com/qunikowski/azure-proj2       |              https://www.youtube.com/watch?v=jhdA8_jOyJY            |
 | 6        | Jakub Bogusz            |  Salary Predictor              |  Zbudowanie aplikacji pozwalającej wyestymować zarobki w branży IT na podstawie posiadanego zestawu umiejętności         | [GitHub](https://github.com/boguszj/azure-p2)          | [YouTube](https://www.youtube.com/watch?v=CkCQ-Hc8LcQ)                         |
 | 7        |             |                |           |           |                          |
-| 8        | Selivonets Aliaksei           |   Cook-Helper                
-|Pomysł polega na stworzeniu botu do jednego z messenger'ów, w naszym projekcie to jest "Telegram Messenger" https://telegram.org/, który na podstawie zdjęcia dania podanego przez użytkownika proponuje wideo tutorial przygotowania takiego dania.        |  https://github.com/VladPodlesnyi/Cook-Helper.git         |     https://youtu.be/OrT6dV7QGwM     |
-| 9        |             |                |           |           |                          |
+| 8        | Selivonets Aliaksei           |   Cook-Helper |Pomysł polega na stworzeniu botu do jednego z messenger'ów, w naszym projekcie to jest "Telegram Messenger" https://telegram.org/, który na podstawie zdjęcia dania podanego przez użytkownika proponuje wideo tutorial przygotowania takiego dania.        |  https://github.com/VladPodlesnyi/Cook-Helper.git         |     https://youtu.be/OrT6dV7QGwM     |
+| 9        | Franciszek Wysocki |AI Coin Counter | Aplikacja, która umożliwia zliczanie wartości monet z przesłanego zdjęcia. Jej celem jest ograniczenie konieczności dotykania pieniędzy po innej osobie, co zwiększa bezpieczeństwo szczególnie w czasach epidemicznych. | https://github.com/KKofta/AI-Coin-Counter | https://youtu.be/AXQhopmFx_0 |
 | 10       |             |                |           |           |                          |
 
 
@@ -55,4 +54,3 @@
 | 4        |             |                |           |           |                          |
 | 5        |             |                |           |           |                          |
 | 6        |             |                |           |           |                          |
-
