@@ -32,7 +32,7 @@
 |----------|-------------|----------------|-----------|-----------|--------------------------|
 | 1        |             |                |           |           |                          |
 | 2        | Patryk Guba |Badanie zależności między używaniem mediów społecznościowych a typem osobowości na podstawie analizy tweetów | Klasyfikacja osobowości MBTI na podstawie krótkich wypowiedzi z serwisów społecznościowych (np. Twitter) w aplikacji webowej | https://github.com/gubapatryk/mbti-tweet-analysis | https://www.youtube.com/watch?v=yuXHhs27Xmw |
-| 3        |             |                |           |           |                          |
+| 3        | Kacper Hołubowicz            | Platforma wsparcia               | Głównym założeniem projektu jest stworzenie platformy umożliwiającej osobom potrzebującym pomocy uzyskaniem jej od osób chętnych do udzielenia jej.          | https://github.com/KacperHolubowicz/platforma-wsparcia          | https://www.youtube.com/watch?v=x5m-79j7-vg                         |
 | 4        |Kinga Kocoł  |Dietetyczny bot |Stworzenie bota, który zwiększa świadomość na temat zaburzeń odżywiania, ale również podaje przydatne informacje na temat zdrowego sposobu odżywiania. Powstały bot potrafi na podstawie podanych przez użytkownika danych wyliczyć wskaźnik masy ciała (BMI), zapotrzebowanie kaloryczne oraz zwrócić informacje na temat kaloryczności i zawartości odżywczych poszczególnych produktów spożywczych oraz przeprowadzić ich analizę i wyświetlić informacje o dominującym makroskładniku.|https://github.com/AzureProject2PW/FoodBot-On-Azure|https://www.youtube.com/watch?v=0wciqxDcaIE|
 | 5        |  Krzysztof Maciejewski           |    Plant disease detector            |     Aplikacja do rozpoznawania chorób roślin      |    https://github.com/qunikowski/azure-proj2       |              https://www.youtube.com/watch?v=jhdA8_jOyJY            |
 | 6        | Jakub Bogusz            |  Salary Predictor              |  Zbudowanie aplikacji pozwalającej wyestymować zarobki w branży IT na podstawie posiadanego zestawu umiejętności         | [GitHub](https://github.com/boguszj/azure-p2)          | [YouTube](https://www.youtube.com/watch?v=CkCQ-Hc8LcQ)                         |
@@ -54,3 +54,4 @@
 | 4        |             |                |           |           |                          |
 | 5        |             |                |           |           |                          |
 | 6        |             |                |           |           |                          |
+
