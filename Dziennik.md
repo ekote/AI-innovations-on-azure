@@ -14,10 +14,10 @@
 | 9    | 07.12 | deadline projektu #2. <br />Start **Projekt #3** - prezentacja pomysłów i akceptacja(albo jej brak) przez prowadzącą | 1. https://docs.microsoft.com/en-us/learn/modules/translate-text-with-translation-service/<br />2. https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/ <br />3. https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-search/ |
 | 10   | 14.12 | **Egzamin** - przygotowanie do AZ-900                        |                                                              |
 |      | 21.12 | 21.12.2021 r. (wtorek) odbędą się zajęcia zgodnie z planem zajęć w piątek; |                                                              |
-| 11   | 04.01 | **Projekt #3** - Scrum Meetings                              |                                                              |
-| 12   | 11.01 | Projekt #3 - Konsultacje                                     |                                                              |
-| 13   | 18.01 | Ethical AI - fairness                                        |                                                              |
-| 14   | 25.01 | Prezentacja **projektów  #3**                                |                                                              |
+| 11   | 04.01 | Alumni zeszłoroczny opowie o Automatyzacji na Azure (https://www.linkedin.com/in/michecinski/)                              |                                                              |
+| 12   | 11.01 | **Projekt #3** - Scrum Meetings                                   |                                                              |
+| 13   | 18.01 | Ethical AI - fairness                                      |                                                              |
+| 14   | 25.01 | Prezentacja **projektów  #3** - GALA!                            |                                                              |
 | 15   | 01.01 | Wystawienie ocen                                             |                                                              |
 
 > Prowadząca zastrzega sobie prawo do modyfikacji harmonogramu (tematów zajęć)  
