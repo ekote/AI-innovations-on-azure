@@ -30,7 +30,7 @@
 
 | Nr grupy | Lider grupy | Nazwa projektu | Opis/Cel  | Repo link | Demo link                |
 |----------|-------------|----------------|-----------|-----------|--------------------------|
-| 1        |             | License plate detection and OCR               |           | https://github.com/janczarek99/license-plate-detection-and-ocr          |  https://www.youtube.com/watch?v=SB-F2TOchRw                        |
+| 1        | [Damian Janczarek](https://github.com/janczarek99) | License plate detection and OCR | Serwis do rozpoznawania tablic rejestracyjnych na podstawie filmu (format mp4, długość do 15 sekund) do zastosowania w automatyzacji otwierania bram garażowych, czy monitorowania ruchu w okolicy. | https://github.com/janczarek99/license-plate-detection-and-ocr  |  https://www.youtube.com/watch?v=SB-F2TOchRw                        |
 | 2        | Patryk Guba |Badanie zależności między używaniem mediów społecznościowych a typem osobowości na podstawie analizy tweetów | Klasyfikacja osobowości MBTI na podstawie krótkich wypowiedzi z serwisów społecznościowych (np. Twitter) w aplikacji webowej | https://github.com/gubapatryk/mbti-tweet-analysis | https://www.youtube.com/watch?v=yuXHhs27Xmw |
 | 3        | Kacper Hołubowicz            | Platforma wsparcia               | Głównym założeniem projektu jest stworzenie platformy umożliwiającej osobom potrzebującym pomocy uzyskaniem jej od osób chętnych do udzielenia jej.          | https://github.com/KacperHolubowicz/platforma-wsparcia          | https://www.youtube.com/watch?v=x5m-79j7-vg                         |
 | 4        |Kinga Kocoł  |Dietetyczny bot |Stworzenie bota, który zwiększa świadomość na temat zaburzeń odżywiania, ale również podaje przydatne informacje na temat zdrowego sposobu odżywiania. Powstały bot potrafi na podstawie podanych przez użytkownika danych wyliczyć wskaźnik masy ciała (BMI), zapotrzebowanie kaloryczne oraz zwrócić informacje na temat kaloryczności i zawartości odżywczych poszczególnych produktów spożywczych oraz przeprowadzić ich analizę i wyświetlić informacje o dominującym makroskładniku.|https://github.com/AzureProject2PW/FoodBot-On-Azure|https://www.youtube.com/watch?v=0wciqxDcaIE|
@@ -48,7 +48,7 @@
 
 | Nr grupy | Lider grupy | Nazwa projektu | Opis/Cel  | Repo link | Demo link                |
 |----------|-------------|----------------|-----------|-----------|--------------------------|
-| 1        |             |                |           |           |                          |
+| 1        | [Damian Janczarek](https://github.com/janczarek99) | Healthcare app for millennials | Web app that allows you to store copies of your documents (handwritten/digital - automatically converted to plain text with OCR) and photos of your medical images (with support of detecting diseases based on image provided fe. lung cancer, pneumonia etc.)  | https://github.com/janczarek99/healthcare-app-for-millennials | https://www.youtube.com/watch?v=uQHUG4QDcaA |
 | 2        |             |                |           |           |                          |
 | 3        |             |                |           |           |                          |
 | 4        |             |                |           |           |                          |
