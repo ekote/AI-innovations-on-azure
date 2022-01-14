@@ -49,7 +49,7 @@
 | Nr grupy | Lider grupy | Nazwa projektu | Opis/Cel  | Repo link | Demo link                |
 |----------|-------------|----------------|-----------|-----------|--------------------------|
 | 1        | [Damian Janczarek](https://github.com/janczarek99) | Healthcare app for millennials | Web app that allows you to store copies of your documents (handwritten/digital - automatically converted to plain text with OCR) and photos of your medical images (with support of detecting diseases based on image provided fe. lung cancer, pneumonia etc.)  | https://github.com/janczarek99/healthcare-app-for-millennials | https://www.youtube.com/watch?v=uQHUG4QDcaA |
-| 2        |             |                |           |           |                          |
+| 2        | [Krzysztof Kalata](https://github.com/KrzysztofKalata) | Flat Price Predictor | Many homeowners before selling their apartment have faced the situation that they had a problem in determining the right selling price. With our app, all they have to do is to enter the data about the property they own and the app will return the right price that reflects the current market prices. The app will also be useful for people who want to determine how much money they need to have in order to purchase an apartment in a desired standard or location. | https://github.com/boguszj/azure-p3 | https://www.youtube.com/watch?v=jpvCorSdyVM |
 | 3        |             |                |           |           |                          |
 | 4        |             |                |           |           |                          |
 | 5        |             |                |           |           |                          |
