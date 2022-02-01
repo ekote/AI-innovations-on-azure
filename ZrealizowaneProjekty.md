@@ -54,4 +54,5 @@
 | 4        |             |                |           |           |                          |
 | 5        |             |                |           |           |                          |
 | 6        |             |                |           |           |                          |
+| 7        | [Franciszek Wysocki](https://github.com/wysockif) | Border Patrol App | Border patrol app is a web application which enables users to upload photos from cameras and then checks if there are people located on these photos. Users need to pass the authorization process and log in to the app to be able to use it. By doing this project we wanted to address a very recent problem of authorized crossing borders. It could be used as a system helping guards on borders to keep track of the eare around the border. It can be especially useful at night when there is a worse visibility for a human eye. | https://github.com/wysockif/border-patrol-app |https://youtu.be/QR7h-0d3D8o|
 
